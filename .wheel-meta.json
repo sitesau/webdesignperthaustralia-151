@@ -1,0 +1,22 @@
+{
+  "wheel_id": 552,
+  "structure": "umbrella",
+  "slug": "webdesignperthaustralia-151",
+  "project": "web-design-perth-beginner-guide-2962fa302b0032fb6cd4bc53c25160a",
+  "parent_t1_ref": "webdesignperthaustralia-011",
+  "node_role": "buffer",
+  "money_target": "webdesignperthaustralia.com.au",
+  "primary_kw": "web design perth beginner guide",
+  "intended_url": "https://sitesau.github.io/webdesignperthaustralia-151/",
+  "tier": "T2",
+  "writeback_nonce": "44df73b338a7dbab",
+  "links": [
+    {
+      "target_url": "https://web-design-perth-webdesignperthaustralia-011-f246d1.gitlab.io/",
+      "anchor": "Web Design Perth: A Practical Buyer Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
